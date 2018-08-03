@@ -1,2 +1,2 @@
-python.py
+discord.py
 lxml.py
